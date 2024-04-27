@@ -1,3 +1,2 @@
-pandas
-matplotlib
-metrics
+pandas >= 2.2.1
+matplotlib >= 3.8.4
